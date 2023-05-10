@@ -15,8 +15,13 @@ import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
 import insitu from "./assets/images/projects/insitu.jpg";
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
+import absensi from "./assets/images/projects/absensi.png";
+import hotel from "./assets/images/projects/hotel.png";
+import attendence from "./assets/images/projects/attendence.png";
+import perpustakaan from "./assets/images/projects/perpustakaan.jpeg";
+import basoaci from "./assets/images/projects/basoaci.png";
+import pengaduan from "./assets/images/projects/pengaduan.png";
+import api from "./assets/images/projects/API.jpeg";
 
 
 // import icons from react-icons
@@ -136,16 +141,36 @@ export const content = {
     title: "My Projects",
     project_content: [
       {
-        title: "Hotel Website",
+        title: "Wikrama Hotel Website",
         image: insitu,
       },
       {
-        title: "Social Media web",
-        image: project2,
+        title: "Public Complaint Website",
+        image: pengaduan,
       },
       {
-        title: "Creative Website",
-        image: project3,
+        title: "Student Attendence Website",
+        image: absensi,
+      },
+      {
+        title: "Company Attendence Website",
+        image: attendence,
+      },
+      {
+        title: "Consume API",
+        image: api,
+      },
+      {
+        title: "Library",
+        image: perpustakaan,
+      },
+      {
+        title: "Hotel Website",
+        image: hotel,
+      },
+      {
+        title: "Baso Aci Website",
+        image: basoaci,
       },
     ],
   },
