@@ -122,12 +122,12 @@ export const content = {
     service_content: [
       {
         title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "Creating responsive designs that work seamlessly across a variety of devices and screen sizes, Troubleshooting issues with website and application functionality ",
         logo: services_logo1,
       },
       {
         title: "ui / ux DESIGNING",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "Improved user experience by designing an interface that is easy to use and visually appealing",
         logo: services_logo2,
       },
     ],
